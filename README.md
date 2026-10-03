@@ -8,5 +8,7 @@ Por exemplo, uma classe Filme beneficiaria de um *setter* para um atributo *rati
 
 ## Questão 2:
   a) ID, título, autor, editora, publicadora, disponibilidade e sinopse.
+
   b) Porque a classe Livro junta as informações necessárias de um livro em um só objeto, fazendo com que o programador não se preocupe com detalhes desnecessários do livro, como tipo de capa, quantidade de páginas, etc.
+
   c) fazerEmprestimo(), fazerDevolucao(), exibirInfo();
