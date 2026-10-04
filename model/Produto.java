@@ -1,3 +1,5 @@
+package model;
+
 public class Produto {
   
   private final int codigo;
